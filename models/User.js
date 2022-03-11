@@ -1,6 +1,6 @@
 const { Schema, model } = require('mongoose');
 const mongoose = require('mongoose');
-require('mongoose-type-email');
+// require('mongoose-type-email');
 
 const userSchema = new Schema(
     {
@@ -13,9 +13,7 @@ const userSchema = new Schema(
             type: String,
             required: true,
             unique: true,
-            validate: {
-                type: mongoose.SchemaTypes.Email
-            }
+            match: /.+\@.+\..+/
         },
         thoughts: [
             {
