@@ -25,6 +25,6 @@ router
 router
     .route('/:userId/friends/:friendId')
     .put(addUserFriend)
-    .patch(deleteUserFriend)
+    .delete(deleteUserFriend)
 
 module.exports = router;
