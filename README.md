@@ -59,7 +59,7 @@ A fully built back-end structure that serves as a base for creating a social net
 6. Click the link below to watch the "Social Minds Think Alike: Back-End Demo" video to see the CRUD routes for users, thoughts, and reactions in action!
 
 ## **Demo**
-['Social Minds Think Alike: Back-End' Demo Using Insomnia](***link***)
+['Social Minds Think Alike: Back-End' Demo Using Insomnia](https://drive.google.com/file/d/1t85gG-kiR5iwu80N2YU5CEaq77bZrakw/view?usp=sharing)
 
 ## **License**
 The project is distributed under the [Creative Commons License](https://creativecommons.org/publicdomain/zero/1.0/)
